@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between !important;
+    margin-top: 10%;
+}
+
+.section {
+    height: 450px;
+    width: 360px;
+    background-color: white;
+    text-align: center;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px 10px rgb(216, 216, 218);
+}
+
+p {
+    background-color: rgb(4, 232, 57);
+    color: rgb(95, 91, 91);
+    padding: 5px;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: inherit;
+}
+h3{
+    font-family: arial;
+}
